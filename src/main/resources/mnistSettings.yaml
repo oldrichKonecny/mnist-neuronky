@@ -1,0 +1,8 @@
+trainLoops: 25
+batchSize: 100
+
+trainSetVectorFile: MNIST_DATA/mnist_train_vectors.csv
+trainSetLabelFile: MNIST_DATA/mnist_train_labels.csv
+
+testVectorFile: MNIST_DATA/mnist_test_vectors.csv
+testLabelFile: MNIST_DATA/mnist_test_labels.csv

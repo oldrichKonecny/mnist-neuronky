@@ -1,0 +1,11 @@
+layersSizes: [784, 50, 25, 10]
+
+biasLowerBound: -0.5
+biasUpperBound: 0.7
+weightLowerBound: -1.0
+weightUpperBound: 1.0
+
+learningRate: 0.3
+
+activationFunctionType: SIGMOID
+errorFunctionType: MEAN_SQUARED

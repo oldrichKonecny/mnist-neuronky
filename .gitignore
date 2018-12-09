@@ -1,0 +1,5 @@
+.idea/
+nnmnist.iml
+pom.xml
+target/
+MNIST_DATA/
